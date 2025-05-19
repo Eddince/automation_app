@@ -6,7 +6,8 @@ plugins {
 }
 
 android {
-    namespace = "com.example.my_flutter_app"
+    namespace = "com.example.automation_app"
+    compileSdk = 34
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,9 +22,13 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.my_flutter_app"
+        applicationId = "com.example.automation_app"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
+        minSdk = 21
+        targetSdk = 34
+        versionCode = 1
+        versionName =  "1.0"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
@@ -39,6 +44,11 @@ android {
     }
 }
 
+dependencies {
+    implementation ("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.22")  // Última estable
+}
+
 flutter {
     source = "../.."
 }
+
