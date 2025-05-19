@@ -1,0 +1,13 @@
+# This is a generated file; do not edit or check into version control.
+android_intent_plus=/home/codespace/.pub-cache/hosted/pub.dev/android_intent_plus-5.3.0/
+camera=/home/codespace/.pub-cache/hosted/pub.dev/camera-0.11.1/
+camera_android_camerax=/home/codespace/.pub-cache/hosted/pub.dev/camera_android_camerax-0.6.16/
+camera_avfoundation=/home/codespace/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.19/
+camera_web=/home/codespace/.pub-cache/hosted/pub.dev/camera_web-0.3.5/
+flutter_local_notifications=/home/codespace/.pub-cache/hosted/pub.dev/flutter_local_notifications-19.2.1/
+flutter_local_notifications_linux=/home/codespace/.pub-cache/hosted/pub.dev/flutter_local_notifications_linux-6.0.0/
+flutter_local_notifications_windows=/home/codespace/.pub-cache/hosted/pub.dev/flutter_local_notifications_windows-1.0.0/
+flutter_plugin_android_lifecycle=/home/codespace/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.28/
+webview_flutter=/home/codespace/.pub-cache/hosted/pub.dev/webview_flutter-4.12.0/
+webview_flutter_android=/home/codespace/.pub-cache/hosted/pub.dev/webview_flutter_android-4.7.0/
+webview_flutter_wkwebview=/home/codespace/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.22.0/
