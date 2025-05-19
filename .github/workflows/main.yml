@@ -26,11 +26,9 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Enable web support
-        run: flutter create --platforms web .
-
-      - name: Get dependencies
-        run: flutter pub get
+     
+     # - name: Get dependencies
+     #   run: flutter pub get
 
       - name: Build APK
         run: flutter build apk --release
